@@ -39,7 +39,7 @@ navbar-links:
 author:
   name: Dynamic Light, Inc.
   email: "dmiller@dynamiclight.ai"
-  linkedin: "https://www.linkedin.com/company/dynamic-light/"
+  linkedin: "company/dynamic-light/"
  
 # Select which links to show in the footer
 footer-links-active:
