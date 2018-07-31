@@ -28,12 +28,9 @@ avatar: "/img/Dynamic_Light_Square_Logo.png"
 # List of links in the navigation bar
 navbar-links:
   Home: ""
-  Resources:
-    - Getting started: "getstarted"
-    - Featured users: "featured-users"
-    - Project page: "https://github.com/daattali/beautiful-jekyll#readme"
-  About me: "http://deanattali.com"
-  Support me: "http://deanattali.com/aboutme/#feed-meeee"
+  Technology: "Technology"
+  Videos: "Videos"
+  About: "About"
 
 # --- Footer options --- #
 
