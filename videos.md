@@ -4,4 +4,4 @@ title: Dynamic Light
 subtitle: Videos
 ---
 
-<video src="ICG_movie_test_faster-1.mp4" width="320" height="200" controls preload></video>
+<video src="/ICG_movie_test_faster-1.mp4" width="320" height="200" controls preload></video>
