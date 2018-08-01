@@ -2,7 +2,7 @@
 layout: page
 title: Dynamic Light
 subtitle: Our Technology
-bigimg: /img/path.jpg
+#bigimg: /img/path.jpg
 ---
 
 Our Technology is...
