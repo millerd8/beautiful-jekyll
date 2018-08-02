@@ -28,8 +28,8 @@ avatar: "/img/Dynamic_Light_Square_Logo.png"
 # List of links in the navigation bar
 navbar-links:
   Home: ""
-  #Technology: "technology"
-  Videos: "videos"
+  Technology: "technology"
+  #Videos: "videos"
   #About: "about"
 
 # --- Footer options --- #
