@@ -27,6 +27,8 @@ subtitle: Our Technology
   <p>
      Dynamic Light's technology, which does not require the injection of a dye, provides high-quality blood flow images continuously. In the image, red indicates high flow and blue indicates no flow.
   </p>
+  </div>
+  <div>
   <p>
     The white signal in the ICG image indicates the indocyanine green dye is in the vessel and thus the surgeon assumes flow in that vessel. Notice that the ICG signal quality degrades quickly since the ICG dye is cleared from the system within about 10 minutes.
   </p>
