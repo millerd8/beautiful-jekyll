@@ -12,6 +12,5 @@ Your browser does not support the video tag.
 </video>
 
 <iframe width="420" height="315"
-src="https://www.youtube.com/watch?v=BhNg6djiNUo">
+src="https://www.youtube.com/embed/BhNg6djiNUo">
 </iframe>
-
