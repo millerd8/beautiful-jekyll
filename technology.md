@@ -6,13 +6,13 @@ subtitle: V
 
 <div style="float:left;width:auto;margin-right:64px;"> 
   <iframe src="https://www.youtube.com/embed/BhNg6djiNUo?autoplay=1&loop=1&start=22"
-          width="340" height="315" allow="autoplay; encrypted-media" allowfullscreen>
+          width="350" height="315" allow="autoplay; encrypted-media" allowfullscreen>
   </iframe>
 </div>
 
 <div style="float:left;width:auto;"> 
-  <iframe src="https://www.youtube.com/embed/9eUf1SX7Jcc?autoplay=1&loop=1&start=23"
-          width="340" height="315" allow="autoplay; encrypted-media" allowfullscreen>
+  <iframe src="https://www.youtube.com/embed/9eUf1SX7Jcc?autoplay=1&loop=1&start=22"
+          width="350" height="315" allow="autoplay; encrypted-media" allowfullscreen>
   </iframe>
 </div> <div style="clear:both;height:1em;"></div>
 
