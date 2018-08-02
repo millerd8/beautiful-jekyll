@@ -30,7 +30,7 @@ navbar-links:
   Home: ""
   Technology: "technology"
   #Videos: "videos"
-  #About: "about"
+  About: "about"
 
 # --- Footer options --- #
 
