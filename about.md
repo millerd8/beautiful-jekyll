@@ -1,10 +1,9 @@
 ---
 layout: page
 title: Dynamic Light
-subtitle: Harnessing the dynamics of light for health care, science, security, and sustainability.
-#fb-img: "/img/Dynamic Light.png"
-#img: /img/Dynamic_Light_Text_Only.png
+subtitle: About us
 ---
+
 <div>
 	<p>
 Dynamic Light, Inc. (“DL”) is a Delaware corporation based in Austin, Texas and founded in May 2018 by Professor Andrew Dunn, Ph.D., Department of Biomedical Engineering, University of Texas at Austin, David Miller, Ph.D. a postdoctoral fellow with Professor Dunn, and Len Pagliaro, Ph.D.  DL’s mission is to enable real-time blood flow imaging that will improve patient care and lower health care costs.  DL technology supports better decision making by providing physicians with continuous, quantitative, non-invasive, high resolution visualization of perfusion.
