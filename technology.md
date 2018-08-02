@@ -23,9 +23,7 @@ subtitle: Our Technology
   <iframe src="https://www.youtube.com/embed/9eUf1SX7Jcc?autoplay=1&loop=1&start=22"
           width="370" height="315" allow="autoplay; encrypted-media" allowfullscreen>
   </iframe>
-</div> <div style="clear:both;height:1em;"></div>
-
-<div>
+</div> <div style="clear:both;height:1em;">
   <p>
      Dynamic Light's technology, which does not require the injection of a dye, provides high-quality blood flow images continuously. In the image, red indicates high flow and blue indicates no flow.
   </p>
