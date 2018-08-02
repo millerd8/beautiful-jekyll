@@ -13,7 +13,6 @@ subtitle: Our Technology
  </p>
 </div>
 
-
 <div style="float:left;width:auto;margin-right:10px;"> 
   <iframe src="https://www.youtube.com/embed/BhNg6djiNUo?autoplay=1&loop=1&start=22"
           width="370" height="315" allow="autoplay; encrypted-media" allowfullscreen>
@@ -26,21 +25,16 @@ subtitle: Our Technology
   </iframe>
 </div> <div style="clear:both;height:1em;"></div>
 
-
-
-
-
-
-The white signal in the ICG image indicates the dye is in the vessel and thus the surgeon assumes flow in that vessel. Notice that the ICG signal quality degrades quickly since the ICG dye is cleared from the system within about 10 minutes. 
-
-The Dynamic Light image, which does not require the injection of a dye, provides high-quality blood flow images continuously. In the image, red indicates high flow and blue indicates no flow. The vessels are physically still there, but the Speckle image will show the stroke area as blue since there is no flow.
-
-This comparison serves to demonstrate that Dynamic Light technology provides surgeons with real-time actionable information about blood flow, in this instance that a clot has formed. Our technology is complementary to ICG angiography by offering continuous and quantitative blood flow monitoring.
-
-
-<br> 
-
-
+<div>
+  <p>
+    The white signal in the ICG image indicates the dye is in the vessel and thus the surgeon assumes flow in that vessel.      Notice that the ICG signal quality degrades quickly since the ICG dye is cleared from the system within about 10 minutes. 
+  </p>
+  <p>
+    The Dynamic Light image, which does not require the injection of a dye, provides high-quality blood flow images continuously. In the image, red indicates high flow and blue indicates no flow. The vessels are physically still there, but the Speckle image will show the stroke area as blue since there is no flow.
+  </p>
+  <p>
+    This comparison serves to demonstrate that Dynamic Light technology provides surgeons with real-time actionable information about blood flow, in this instance that a clot has formed. Our technology is complementary to ICG angiography by offering continuous and quantitative blood flow monitoring.
+  </p>
 
 <!--
 <div style="float:left;width:auto;margin-right:10px;"> 
