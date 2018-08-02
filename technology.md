@@ -5,7 +5,7 @@ subtitle: Videos
 ---
 
 <div style="float:left;width:auto;margin-right:24px;"> 
-  <iframe src="https://www.youtube.com/embed/BhNg6djiNUo?autoplay=1&loop=1"
+  <iframe src="https://www.youtube.com/embed/BhNg6djiNUo?autoplay=1&loop=1&start=429"
           width="320" height="315" allow="autoplay; encrypted-media" allowfullscreen>
   </iframe>
 </div>
