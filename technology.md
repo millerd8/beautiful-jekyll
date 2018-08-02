@@ -16,13 +16,13 @@ subtitle: Videos
 
 <div style="float:left;width:auto;margin-right:14px;"> 
   <iframe src="https://www.youtube.com/embed/BhNg6djiNUo?autoplay=1&loop=1"
-          width="420" height="315" >
+          width="320" height="315" >
   </iframe>
 </div>
 
 <div style="float:left;width:auto;"> 
   <iframe src="https://www.youtube.com/embed/9eUf1SX7Jcc?autoplay=1&loop=1"
-          width="420" height="315" >
+          width="320" height="315" >
   </iframe>
 </div> <div style="clear:both;height:1em;"></div>
 
