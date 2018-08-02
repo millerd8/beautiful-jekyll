@@ -3,9 +3,7 @@ layout: page
 title: Dynamic Light
 subtitle: About us
 ---
-
-<div>
-	<p>
+<p>
 Dynamic Light, Inc. (“DL”) is a Delaware corporation based in Austin, Texas and founded in May 2018 by Professor Andrew Dunn, Ph.D., Department of Biomedical Engineering, University of Texas at Austin, David Miller, Ph.D. a postdoctoral fellow with Professor Dunn, and Len Pagliaro, Ph.D.  DL’s mission is to enable real-time blood flow imaging that will improve patient care and lower health care costs.  DL technology supports better decision making by providing physicians with continuous, quantitative, non-invasive, high resolution visualization of perfusion.
 	</p>
 	<p>
@@ -18,4 +16,3 @@ David Miller, Ph.D., Chief Technology Officer and Co-Founder, has been involved 
 	<p>
 Len Pagliaro, Ph.D., Chief Executive Officer and Co-Founder, has 20 years of experience with successful commercialization of biotechnology products, services, and technology licensing.  Len started working with Drs. Dunn and Miller in 2018, and he was appointed CEO in May 2018.  He has managed R&D and business teams, and developed product, service, and technology licensing programs from inception to revenues to profitability in 2 previous biotech startups.  He managed P&L for a business unit of ThermoFisher Scientific, selling tools and services for drug discovery, after successful acquisition of BioImage A/S, a Danish biotech he helped found. Len started commercialization at BioImage from concept to $1M in revenue in 1 year, revenues tripled in each of the following 2 years, and after acquisition and integration by Thermo, his P&L grew to $26M.  A small molecule oncology therapeutic project he led was successfully partnered with TopoTarget and is now in the clinic.  Most recently he co-founded Siva Therapeutics, where he developed a business plan, recruited a management team, assembled a strong and growing IP portfolio, and raised founding capital which included >$1.7 million in grants.  Siva has completed a rigorous preclinical program with the Nanotechnology Characterization Laboratory and is in discussions for strategic partnerships.
 	</p>
-</div>
