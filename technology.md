@@ -5,7 +5,7 @@ subtitle: Our Technology
 ---
 
 <div>
-  <p align="center">
+  <p>
    Dynamic Light imaging technology is revolutionizing the way blood flow is visualized during surgery. The technology provides non-invasive, continuous, and quantitative blood flow monitoring to reduce the risk of surgical complications.
   </p>
   <p>
