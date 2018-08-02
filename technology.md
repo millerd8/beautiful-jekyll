@@ -23,7 +23,7 @@ subtitle: Our Technology
   <iframe src="https://www.youtube.com/embed/9eUf1SX7Jcc?autoplay=1&loop=1&start=22"
           width="370" height="315" allow="autoplay; encrypted-media" allowfullscreen>
   </iframe>
-</div> <div style="clear:both;height:1em;">
+</div> <div style="clear:both;height:1em;"></div>
 
 <div>
   <p>
