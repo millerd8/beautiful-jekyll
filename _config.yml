@@ -38,7 +38,7 @@ navbar-links:
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: Dynamic Light, Inc.
-  email: "dmiller@dynamiclight.ai"
+  email: "lpagliaro@dynamiclight.ai"
   linkedin: "company/dynamic-light/"
  
 # Select which links to show in the footer
