@@ -16,6 +16,18 @@ subtitle: V
   </iframe>
 </div> <div style="clear:both;height:1em;"></div>
 
+
+Dynamic Light imaging technology is revolutionizing the way blood flow is visualized during surgery. The technology provides non-invasive, continuous, and quantitative blood flow monitoring to reduce the risk of surgical complications.
+
+The videos below compare the current gold-standard technique Indocyanine green (ICG) angiograph with Dynamic Light’s technology which is based upon laser speckle contrast imaging. The comparison videos were recorded simultaneously during a stroke and play at the same sped up time rate indicated above the video in minutes.
+
+The white signal in the ICG image indicates the dye is in the vessel and thus the surgeon assumes flow in that vessel. Notice that the ICG signal quality degrades quickly since the ICG dye is cleared from the system within about 10 minutes. 
+
+The Dynamic Light image, which does not require the injection of a dye, provides high-quality blood flow images continuously. In the image, red indicates high flow and blue indicates no flow. The vessels are physically still there, but the Speckle image will show the stroke area as blue since there is no flow.
+
+This comparison serves to demonstrate that Dynamic Light technology provides surgeons with real-time actionable information about blood flow, in this instance that a clot has formed. Our technology is complementary to ICG angiography by offering continuous and quantitative blood flow monitoring.
+
+
 <br> 
 
 
