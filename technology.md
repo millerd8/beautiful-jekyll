@@ -35,6 +35,7 @@ subtitle: Our Technology
   <p>
     This comparison serves to demonstrate that Dynamic Light technology provides surgeons with real-time actionable information about blood flow, in this instance that a clot has formed. Our technology is complementary to ICG angiography by offering continuous and quantitative blood flow monitoring.
   </p>
+</div> 
 
 <!--
 <div style="float:left;width:auto;margin-right:10px;"> 
