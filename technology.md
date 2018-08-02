@@ -4,7 +4,7 @@ title: Dynamic Light
 subtitle: Videos
 ---
 
-<div style="float:left;width:auto;margin-right:24px;"> 
+<div style="float:left;width:auto;margin-right:64px;"> 
   <iframe src="https://www.youtube.com/embed/BhNg6djiNUo?autoplay=1&loop=1&start=22"
           width="320" height="315" allow="autoplay; encrypted-media" allowfullscreen>
   </iframe>
