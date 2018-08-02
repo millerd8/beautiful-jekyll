@@ -9,7 +9,7 @@ subtitle: Our Technology
    Dynamic Light imaging technology is revolutionizing the way blood flow is visualized during surgery. The technology provides non-invasive, continuous, and quantitative blood flow monitoring to reduce the risk of surgical complications.
   </p>
   <p>
-  The videos below compare the current gold-standard technique Indocyanine green (ICG) angiography with Dynamic Light’s technology. The comparison videos were recorded simultaneously during a stroke and play at the same sped up time rate indicated above the video in minutes.
+  The videos below compare Dynamic Light’s technology (left video) with the technique Indocyanine green angiography (right video). The comparison videos were recorded simultaneously during a stroke and play at the same sped up time rate indicated above each video in minutes.
  </p>
 </div>
 
