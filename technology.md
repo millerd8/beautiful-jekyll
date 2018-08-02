@@ -11,7 +11,7 @@ subtitle: Videos
 </div>
 
 <div style="float:left;width:auto;"> 
-  <iframe src="https://www.youtube.com/embed/9eUf1SX7Jcc?autoplay=1&loop=1&start=22.6"
+  <iframe src="https://www.youtube.com/embed/9eUf1SX7Jcc?autoplay=1&loop=1&start=23"
           width="320" height="315" allow="autoplay; encrypted-media" allowfullscreen>
   </iframe>
 </div> <div style="clear:both;height:1em;"></div>
